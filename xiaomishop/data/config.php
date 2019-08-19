@@ -3,13 +3,13 @@
 $db_host   = "localhost";
 
 // database name
-$db_name   = "mi";
+$db_name   = "xiaomishop";
 
 // database username
 $db_user   = "root";
 
 // database password
-$db_pass   = "admin";
+$db_pass   = "Sd2884809_";
 
 // table prefix
 $prefix    = "ecs_";
